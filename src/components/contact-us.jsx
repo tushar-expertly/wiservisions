@@ -111,7 +111,7 @@ function ContactUs() {
                 Our friendly team is here to help.
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
-                customer.support@wiservisions.com
+                customer_care@wiservisions.com
               </p>
             </div>
 
